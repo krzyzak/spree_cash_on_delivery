@@ -5,7 +5,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Michal Krzyzanowski"]
   gem.email         = ["michal.krzyzanowski+github@gmail.com"]
   gem.description   = %q{Cash on delivery payment method for Spree}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.summary       = %q{This gem adds cash on delivery payment method for spree}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
